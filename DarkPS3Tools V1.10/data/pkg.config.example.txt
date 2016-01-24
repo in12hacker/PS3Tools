@@ -1,0 +1,180 @@
+- Main Packages Type :
+
+Game Data Package
+
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Free
+ContentType = GameData
+PackageVersion = 01.00
+
+
+
+
+HDD Game Package
+
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Free
+ContentType = GameExec
+PackageVersion = 01.00
+
+
+
+
+
+HDD Game Patch Package
+
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Free
+ContentType = GameExec
+PackageType = HDDGamePatch
+PackageVersion = 01.00
+
+
+
+
+
+Disc Game Patch Package
+
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Free
+ContentType = GameData
+PackageType = DiscGamePatch
+PackageVersion = 01.00
+
+
+
+
+
+License
+
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Local
+ContentType = License
+PackageVersion = 01.00
+
+
+
+
+
+Custom Theme
+
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Local
+ContentType = Theme
+PackageVersion = 01.00
+
+
+
+
+
+VSH Module
+
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Free
+ContentType = VSHModule
+PackageVersion = 01.00
+
+
+
+
+
+PS1 Game
+
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Local
+ContentType = PS1Game
+TitleID = XXXXYYYYY
+PackageVersion = 00.00
+
+
+
+
+
+Minis
+
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Local
+ContentType = minis
+TitleID = XXXXYYYYY
+PackageVersion = 01.00
+
+
+
+
+
+Demo with Key Package
+
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Free
+ContentType = GameExec
+PackageType = Demo
+PackageVersion = 01.00
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Free
+ContentType = GameExec
+PackageType = Key
+PackageVersion = 01.00
+
+
+
+
+
+Date limitations
+
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Local
+ContentType = GameExec
+LimitedTimeStart = YYYY-MM-DDThh:mmTZD
+LimitedTimeEnd = YYYY-MM-DDThh:mmTZD
+PackageVersion = 01.00
+
+
+
+
+
+ForcedInstallTo
+
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Free
+ContentType = GameExec
+ForcedInstallTo =
+PackageVersion = 01.00
+
+
+
+
+
+InstallDirectory
+
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Free
+ContentType = GameExec
+InstallDirectory =
+PackageVersion = 01.00
+
+
+
+
+
+PackageFlag
+
+ContentID = XXYYYY-XXXXYYYYY_00-XXXXXXXXXXXXXXXX
+Klicensee = 0x00000000000000000000000000000000
+DRMType = Free
+ContentType = GameExec
+PackageFlag =
+PackageVersion = 01.00
